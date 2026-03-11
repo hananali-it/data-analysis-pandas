@@ -1,0 +1,18 @@
+Dataset:
+Product  Price  Quantity
+Laptop   1200   2
+Phone    800    5
+Tablet   400    3
+Laptop   1500   1
+Phone    900    4
+
+Average Price:
+960
+
+Total Quantity Sold:
+15
+
+Sales by Product:
+Laptop    3
+Phone     9
+Tablet    3
